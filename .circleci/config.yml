@@ -15,7 +15,7 @@ jobs:
       - run:
           name: "Run App"
           command: dotnet run --project ./ConsoleApp1
-	  - run:
+      - run:
           name: "Test App"
           command: dotnet test ./NUnitTestProject1
 		
