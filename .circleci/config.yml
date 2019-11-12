@@ -18,4 +18,3 @@ jobs:
       - run:
           name: "Test App"
           command: dotnet test ./NUnitTestProject1
-		
