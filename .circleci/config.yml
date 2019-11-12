@@ -8,10 +8,10 @@ jobs:
       - checkout
       - run:
           name: "Install project dependencies"
-          command: dotnet.exe restore
+          command: dotnet restore
       - run:
           name: "Run Build App"
-          command: dotnet.exe build
+          command: dotnet build
       - run:
           name: "Run App"
           command: dotnet run 
