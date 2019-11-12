@@ -5783,11 +5783,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andrew\\Desktop\\GITWORKFLOWTEST\\GitOperations\\ConsoleApp1\\NUnitTestProject1\\NUnitTestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\Andrew\\Desktop\\GITWORKFLOWTEST\\GitOperations\\NUnitTestProject1\\NUnitTestProject1.csproj",
       "projectName": "NUnitTestProject1",
-      "projectPath": "C:\\Users\\Andrew\\Desktop\\GITWORKFLOWTEST\\GitOperations\\ConsoleApp1\\NUnitTestProject1\\NUnitTestProject1.csproj",
+      "projectPath": "C:\\Users\\Andrew\\Desktop\\GITWORKFLOWTEST\\GitOperations\\NUnitTestProject1\\NUnitTestProject1.csproj",
       "packagesPath": "C:\\Users\\Andrew\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andrew\\Desktop\\GITWORKFLOWTEST\\GitOperations\\ConsoleApp1\\NUnitTestProject1\\obj\\",
+      "outputPath": "C:\\Users\\Andrew\\Desktop\\GITWORKFLOWTEST\\GitOperations\\NUnitTestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5805,8 +5805,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Andrew\\Desktop\\GITWORKFLOWTEST\\GitOperations\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
-              "projectPath": "C:\\Users\\Andrew\\Desktop\\GITWORKFLOWTEST\\GitOperations\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj"
+            "C:\\Users\\Andrew\\Desktop\\GITWORKFLOWTEST\\GitOperations\\ConsoleApp1\\ConsoleApp1.csproj": {
+              "projectPath": "C:\\Users\\Andrew\\Desktop\\GITWORKFLOWTEST\\GitOperations\\ConsoleApp1\\ConsoleApp1.csproj"
             }
           }
         }
