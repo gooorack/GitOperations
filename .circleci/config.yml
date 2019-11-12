@@ -14,4 +14,4 @@ jobs:
           command: dotnet build
       - run:
           name: "Run App"
-          command: dotnet run 
+          command: dotnet run /root/project/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.dll
